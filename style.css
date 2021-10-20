@@ -2,8 +2,15 @@
     background-color: gray;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 button {
     background-color: lightblue;
+    max-width: 100px;
 }
 
 .grid {

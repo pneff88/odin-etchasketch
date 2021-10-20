@@ -1,6 +1,6 @@
 const grid = document.querySelector('#grid');
 
-let numRows = 8
+let numRows = 20
 
 const clearButton = document.querySelector('#clearButton')
 
